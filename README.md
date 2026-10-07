@@ -2,4 +2,4 @@
 
 if you're seeing this page, I've likely misspelled my username in a link I've sent you.
 
-My bad 🥲, my github link is actually here: [Josephine's Github](github.com/josieemenya)
+My bad 🥲, my github link is actually here: [Josephine's Github](https://www.github.com/josieemenya)
